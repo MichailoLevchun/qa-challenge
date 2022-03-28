@@ -27,4 +27,3 @@ OR
 ```
 Run from testng.xml
 ```
-##Structure 
